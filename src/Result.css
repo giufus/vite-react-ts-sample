@@ -1,0 +1,15 @@
+.result {
+    background-color: rgb(82, 82, 142);
+    border: 2px solid silver;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.results {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
