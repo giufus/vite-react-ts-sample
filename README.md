@@ -1,6 +1,17 @@
-# Sample search 
+# Belfiore Search Simple
 
-REACT components that use [belfiore-search](https://github.com/giufus/belfiore-search) API. You need to run belfiore server on localhost:3000.
+REACT components that use [belfiore-search](https://github.com/giufus/belfiore-search) API and basic state management with React `useState`.  
+You need to run `belfiore` server on localhost:3000.
+
+![](belfiore-usestate-640.gif)
+
+## Project initialization and run:
+````
+npm create vite@latest vite-react-ts-sample -- --template react-ts
+cd vite-react-ts-sample
+npm install 
+npm run dev
+````
 
 # React + TypeScript + Vite
 
